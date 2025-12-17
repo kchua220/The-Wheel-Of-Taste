@@ -31,4 +31,6 @@ git clone https://github.com/yourusername/wheel-of-taste.git
 cd wheel-of-taste
 open "The Wheel of Taste.xcodeproj"
 ```
-<sub>Build and run the project in Xcode (requires iOS 15.0+)</sub>
+<sub>Build and run the project in Xcode (requires iOS 15.0+)</sub>  
+
+🔗 [View Project Details](https://kchua220.github.io/Portfolio-Website/project/the-wheel-of-taste)
