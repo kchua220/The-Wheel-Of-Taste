@@ -1,6 +1,6 @@
 # The Wheel of Taste 
 
-Spin the wheel and discover your next meal with this iOS app.
+Spin the wheel and discover your next meal!
 
 -----------------------------------------------------------------------------------------------------------
 
