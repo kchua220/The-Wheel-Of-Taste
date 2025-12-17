@@ -13,10 +13,10 @@ An iOS app that solves the question: "What should I eat?" Select your cuisine an
 - Polished UI: Gradient backgrounds, fluid transitions, and animations
 -----------------------------------------------------------------------------------------------------------
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/4268d59d-8454-461c-8f21-3ef1398e3c0a" style="width: 240px; height: 460px; object-fit: cover;" alt="Home Screen"/>
-  <img src="https://github.com/user-attachments/assets/3ea06fe1-2e6a-4776-a98b-90a29e8b2df7" style="width: 250px; height: 460px; object-fit: cover;" alt="Cuisine Selection"/>
-  <img src="https://github.com/user-attachments/assets/7b5b1f8b-a01c-41d7-b277-cad889348bc6" style="width: 240px; height: 460px; object-fit: cover;" alt="Budget Selection"/>
-  <img src="https://github.com/user-attachments/assets/5de99241-eae1-4c87-a519-651fd2a7255c" style="width: 250px; height: 460px; object-fit: cover;" alt="Spinning Wheel"/>
+  <img src="https://github.com/user-attachments/assets/4268d59d-8454-461c-8f21-3ef1398e3c0a" style="width: 220px; height: 400px; object-fit: cover;" alt="Home Screen"/>
+  <img src="https://github.com/user-attachments/assets/3ea06fe1-2e6a-4776-a98b-90a29e8b2df7" style="width: 230px; height: 400px; object-fit: cover;" alt="Cuisine Selection"/>
+  <img src="https://github.com/user-attachments/assets/7b5b1f8b-a01c-41d7-b277-cad889348bc6" style="width: 220px; height: 400px; object-fit: cover;" alt="Budget Selection"/>
+  <img src="https://github.com/user-attachments/assets/5de99241-eae1-4c87-a519-651fd2a7255c" style="width: 230px; height: 400px; object-fit: cover;" alt="Spinning Wheel"/>
 </div>
 
 -----------------------------------------------------------------------------------------------------------
