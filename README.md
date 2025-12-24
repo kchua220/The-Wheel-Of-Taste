@@ -1,4 +1,4 @@
-# The Wheel of Taste 
+# The Wheel of Taste 
 
 Spin the wheel and discover your next meal!
 
