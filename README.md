@@ -27,9 +27,9 @@ Spin the wheel and discover your next meal!
 -----------------------------------------------------------------------------------------------------------
 ## Getting Started
 ```bash
-git clone https://github.com/yourusername/wheel-of-taste.git
-cd wheel-of-taste
-open "The Wheel of Taste.xcodeproj"
+git clone https://github.com/yourusername/the-wheel-of-taste.git
+cd the-wheel-of-taste
+open "The-Wheel-of-Taste.xcodeproj"
 ```
 <sub>Build and run the project in Xcode (requires iOS 15.0+)</sub>  
 
